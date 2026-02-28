@@ -1,0 +1,11 @@
+{
+	"title": "Blackout",
+	"executable": "FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exe",
+	"productid": "c557c546364948a39015f9b7106e36c0",
+	"sandboxid": "6d0ee47cd44e43c7a663bc7a3a6156f5",
+	"deploymentid": "6d0ee47cd44e43c7a663bc7a3a6156f5",
+	"requested_splash": "EasyAntiCheat/SplashScreen.png",
+	"wait_for_game_process_exit": "false",
+	"hide_bootstrapper": "false",
+	"hide_gui": "false"
+}
